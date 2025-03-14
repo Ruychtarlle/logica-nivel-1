@@ -1,8 +1,5 @@
-#  Faça um alogoritimo para somar dois numeros, observação vale para divisão, soma. muitiplicão e porcentagem 
-print("Qual primeiro numero?")
-numero1 = int(input() )
-print("qual segundo numero?")
-numero2 = int(input() )
-soma = numero1 + numero2
-print(soma)
+# Escrever um algoritimo para ler um valor (do teclado) e escrver (na tela) o seu valor antecessor.
 
+print("digite um numero de 0 a 10 por favor")
+numero =int(input())
+print(numero-1)
