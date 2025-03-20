@@ -1,0 +1,6 @@
+ # exemplo da aula 
+
+if(5 > 7):
+    print("5 é maior que 7")
+else:
+    print("5 não é maior que 7")
