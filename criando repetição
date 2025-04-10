@@ -1,0 +1,7 @@
+# valor em nome
+
+nomes = ["ruychtarlle", "pereira", "barbsosa"]
+
+for i in nomes:
+    print("valor do  contador", i)
+
