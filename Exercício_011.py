@@ -9,6 +9,7 @@ if quantidade < 12:
 else:
     preco= 1
     
-    
 total = quantidade * preco
 print(f"Custo total da comprar é: =R${total:.2f}")
+
+
